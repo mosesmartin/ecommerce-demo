@@ -1,0 +1,34 @@
+.card-heading{
+    text-transform: uppercase;
+}
+
+.card-link{
+    text-transform: uppercase;
+
+}
+
+.card {
+    margin: 5% 0%;
+    border: none;
+}
+
+.card-body {
+    margin: 0% 0% 0% 3%;
+    padding: 6% 0%;
+    
+}
+
+.card-heading {
+    text-align: center;
+    color: #424542;
+    font-weight: 500;
+    font-size: 19px;
+}
+
+.card-link {
+    display: flex;
+    justify-content: center;
+    color: #424542;
+
+
+}
